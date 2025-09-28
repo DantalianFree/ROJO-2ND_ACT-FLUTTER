@@ -166,7 +166,7 @@ class Example4Screen extends StatelessWidget {
                     ),
                     ListTile(
                       leading: Icon(Icons.location_on),
-                      title: Text('Talisay City, Negros Occidental'),
+                      title: Text('Talisay City, Negros'),
                     ),
                   ],
                 ),
