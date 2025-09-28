@@ -16,26 +16,3 @@ The app includes 10 different layout examples:
 8. **Flexible widgets in Column** - Dynamic resizing on orientation change
 9. **Chat bubble UI** - Container with padding, margin, rounded borders
 10. **Grid-like layout** - Row and Column combination without GridView
-
-## Getting Started
-
-1. Make sure you have Flutter installed on your system
-2. Navigate to the project directory
-3. Run `flutter pub get` to install dependencies
-4. Run `flutter run` to start the app
-
-## Project Structure
-
-```
-lib/
-├── main.dart                 # App entry point
-└── screens/
-    ├── home_screen.dart      # Main navigation screen
-    └── layout_examples.dart  # All 10 layout examples
-```
-
-## Requirements
-
-- Flutter SDK 3.0.0 or higher
-- Dart 3.0.0 or higher
-Activity 2 of making apps with flutter
